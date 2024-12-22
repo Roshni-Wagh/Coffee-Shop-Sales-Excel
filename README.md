@@ -1,1 +1,2 @@
 # Coffee-Shop-Sales-Excel
+Coffee shop sales analysis using Excel involves examining sales data to gain insights into business performance, customer preferences, and trends. By organizing transaction data in Excel, such as date, time, product sold, quantity, and revenue, one can create useful reports.Analyzing costs, and identifying high-performing items allows coffee shop owners to optimize pricing strategies, inventory management, and staffing schedules.
